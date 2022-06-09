@@ -1,2 +1,2 @@
-Hey guys, this is my first project.
-This is the second line.
+This is my first project
+This is the second line
